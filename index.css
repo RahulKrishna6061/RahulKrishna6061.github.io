@@ -24,34 +24,3 @@
 
 
 
-<div class="col-6 col-md-6 col-lg-6" data-aos="fade-up" data-aos-delay="100">
-    <a href="my-photos.html" class="d-block photo-item">
-      <img src="images/icon-6.png" alt="Image" class="thumbnails img-fluid">
-      <div class="photo-text-more">
-        <h3 class="heading">My Pics</h3>
-        <span class="meta">4 Photos</span>
-      </div>
-    </a>
-  </div>
-
-        
-<div class="col-6 col-md-6 col-lg-6" data-aos="fade-up" data-aos-delay="100">
-    <a href="photography.html" class="d-block photo-item">
-      <img src="images/icon-5.png" alt="Image" class="thumbnails img-fluid">
-      <div class="photo-text-more">
-        <h3 class="heading">KriZz Photography</h3>
-        <span class="meta">7 Photos</span>
-      </div>
-    </a>
-  </div>
-
-        
-<div class="col-6 col-md-6 col-lg-6" data-aos="fade-up" data-aos-delay="100">
-    <a href="drawing.html" class="d-block photo-item">
-      <img src="images/icon-4.png" alt="Image" class="thumbnails img-fluid">
-      <div class="photo-text-more">
-        <h3 class="heading">My Scribblings</h3>
-        <span class="meta">3 Photos</span>
-      </div>
-    </a>
-  </div>
